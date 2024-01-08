@@ -1,15 +1,15 @@
-<h3 align="center">Translated and Pararphrased Chapters of the Bible</h3>
+<h3 align="center">TWF Edited Bible Chapters</h3>
 
 ---
 
-These are the Chapters and verses that have been edited to some degree.
+These are the TWF Bible version of the books, chapters, and verses that have been edited to some degree.
 
 #### Old Testament:
 
 Genesis		Rough Draft
 Exodus		Rough Draft
 Leviticus	Rough Draft
-Numbers		3:1
+Numbers		3:4
 
 
 #### New Testament:
