@@ -1,33 +1,43 @@
-#### Twenty-First Century Version(TWF):
-----
-##### The TWF folder contains the complete Verses of the "Twenty-First Century Version" of the bible in these various data formats:
-* CSV
-* JavaScript
-* JSON
-* JSONC
-* Plain-Text
-* SQLite3 database
+<h3 align="center">Twenty-First Century Version(TWF)</h3>
+
+The "Twenty-First Century Version" is part of the "Bible Code Project". It's a new version of the bible that's being translated and paraphrased from many different ancient scriptures including the "King James Version". It's being rewritten by humans, with the help of AI or Artificial Intelligence. There are many books and chapters in need of translating.  The verses from the TWF.db database will be imported into the BibleDB.db file in the "BibleDB Project" which is another part of the "Bible Code Project".
+
 ---
-The "Twenty-First Century Version" of the bible is a new paraphrased Bible version that is actively being worked on. It's being translated from many different ancient text sources. The paraphrased translation is being rewritten by humans with human oversight, with the help of AI Artificial Intelligence. There are many books and chapters that are in need of translation and paraphrasing. If you would like to contribute to this effort, please fork this project. The only files that will be used for translating and paraphrasing will be the TWF.db file in the TWF folder.
 
-The TWF.db database file can be edited with "DB Browser for SQLite" for Windows which is explained on the <a href="../../Readme.md">Readme.md</a> page in the main folder, or you can use the command line, if that's more comfortable for you.
+The books and chapters in the tables below have been partially edited. Google "Bard" and Microsoft "Bing Copilot" AI engines are being used to help with the translation. The original verses in the TWF.db file came from the "King James Version". They've already been substantially edited by computer algorythms, but need extensive human re-editing. The TWF.db can be edited with the "DB Browser" database Graphical User Interface. The instructions for downloading and installing it is in the "Bible Code Project" documentation link below.
 
-These are the books and chapters that are in the rough draft stage so far, they are in need of final editing for grammar and spelling. All other books and chapters are in need of complete translation and paraphrasing verse by verse. I am using Google Bard and Bing ChatGPT to help with the translation for these verses. The original verses in the TWF.db file come from the "King James Version," but they have already been substantially edited by computer algorythms, and in many cases this has made the verse incoherent. So these verses have to be edited double checked along with paraphrasing and translated from archaic English.
+---
+
 <br>
-##### Edited and Pararphrased to Rough Draft:
-The Chapters column in the table below indicates which chapter and verses have been edited. Such as Genesis - Rough Draft means that the book of Genesis has been completely edited to the rough draft stage. Numbers - 2:5 means that in the book of Numbers, chapter 1 has been completely edited to the rough draft stage, and chapter 2 has been edited through verse 5. Revelation 6:1 means chapter 1-5 in the book of Revelation have been edited, and editing should begin with chapter 6 - verse 1. All the other books and chapters are in need of editing.
-###### Old Testament:
-|Book|Chapters|
-| --- | --- |
-|Genesis|Rough Draft|
-|Exodus|Rough Draft|
-|Leviticu|Rough Draft|
-|Numbers|2:5|
 
--------------------
-###### New Testament:
-|Book|Chapters|
-| --- | --- |
-|Matthew|5:1|
-|Mark|4:15|
-|Revelation|6:1|
+#### Edited Books and Chapters:
+
+These books and chapters have been edited to some degree. If you would like to contribute to this translation you can clone this fork or download the files.
+
+##### Old Testament  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   New Testament
+
+|Book|Chapters| |Book|Chapters|
+| --- | --- | ---  | --- | --- |
+|Genesis|Rough Draft|    |Matthew|5:1|
+|Exodus|Rough Draft|    |Mark|4:15|
+|Leviticu|Rough Draft|  |Revelation|6:1|
+|Numbers|2:5|
+| | | | | |
+
+---
+
+
+
+<br>
+<h4>The Bible Code Project</h4>
+<a class="spa" target="_blank" href="https://github.com/ACB-Bible/Bible-Code/">The Bible Code Project Documentation for Developers</a><br>
+The "Bible Code Project" is a collection of GitHub repositories containing source code and data that can be used to develop your own computerized Bible project, including the "Twenty-First Century Version" translation database. All the data and source code for each of these projects is in the public domain and free of copyrights, therefore it's free for you to use in your own ministry or Bible project.<br><br>
+
+<br><br>
+
+<hr>
+
+<br><br>
+<p align="center">
+    <em>God loves you, Jesus loves you, I love you, and this is God's free gift to you .....</em>
+</p>
