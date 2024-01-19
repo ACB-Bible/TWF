@@ -1,7 +1,7 @@
 <a id="top"></a>
 <h3 align="center">Twenty-First Century Version(TWF)</h3>
 
-The "Twenty-First Century Version" Bible is part of the "Bible Code Project". It's a new version of the bible that's being translated and paraphrased from many different ancient scriptures including the "King James Version". It's being rewritten by humans, with the help of AI or Artificial Intelligence. There are many books and chapters in need of translating.  The verses from the TWF.db database will be imported into the BibleDB.db file in the "BibleDB Project" which is another part of the "Bible Code Project".
+The "Twenty-First Century Version" of the Bible is part of the "Bible Code Project". It's a new version of the bible that's being translated and paraphrased from many different ancient scriptures including the "King James Version". It's being rewritten by humans, with the help of AI or Artificial Intelligence. There are many books and chapters in need of translating.  The verses from the TWF.db database will be imported into the BibleDB.db file in the "BibleDB Project" which is another part of the "Bible Code Project".
 
 ---
 
