@@ -4,6 +4,7 @@
 The Twenty-First Century Version of the bible is part of the Bible Code Project. It's a new version of the bible that's being translated and paraphrased from many different ancient scriptures including the King James Version. It's being rewritten by humans for humans with the help of AI or Artificial Intelligence. The SQLite3 TWF.db database file contains all the verses for the project, and there are many books and chapters that still need to be translated. Much of the text in the TWF.db database has already been altered by computer algorythms, and is in need of extensive human editing and verification. The verses from the TWF.db database file will be imported into the BibleDB.db file in the BibleDB Project which is another part of the Bible Code Project. A table that details the chapters and verses that have been edited to some degree is located in the Bible Code Project developer documentation.
 
 [American Computerized Bible Website](https://acbible.com) - The live operational website for the American Computerized Bible.
+
 [New Christian Bible Website](https://acb-bible.github.io/NCB/) - The live operational website for the New Christian Bible.
 
 ---
